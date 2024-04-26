@@ -14,7 +14,7 @@ class Elementor_Addons_Heading extends \Elementor\Widget_Base {
     }
 
     public function get_categories() {
-        return [ 'jewel-khan', 'akram' ];
+        return [ 'elementor-addons' ];
     }
 
     public function get_keywords() {

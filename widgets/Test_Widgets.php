@@ -14,7 +14,7 @@ class Test_Widgets extends \Elementor\Widget_Base {
     }
 
     public function get_categories() {
-        return [ 'basic' ];
+        return [ 'elementor-addons' ];
     }
 
     public function get_keywords() {
